@@ -517,7 +517,7 @@ the string of names.
 Angular supplies these arguments from injected values identified by
 the two *tokens* in the `deps` array.
 
-* The function returns the string of names, which Angular than injects into
+* The function returns the string of names, which Angular then injects into
 the `runnersUp` parameter of `HeroOfTheMonthComponent`.
 
 <div class="alert is-helpful">
